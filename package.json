@@ -1,0 +1,28 @@
+{
+  "name": "20210512-roman-pidlisnychyi-trips-apollo-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/voypost-tests/20210512-roman-pidlisnychyi-trips-apollo-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/voypost-tests/20210512-roman-pidlisnychyi-trips-apollo-server/issues"
+  },
+  "homepage": "https://github.com/voypost-tests/20210512-roman-pidlisnychyi-trips-apollo-server#readme",
+  "dependencies": {
+    "apollo-datasource-rest": "^0.13.0",
+    "apollo-server": "^2.24.0",
+    "dotenv": "^9.0.2",
+    "graphql": "^15.5.0",
+    "mongoose": "^5.12.8",
+    "node-fetch": "^2.6.1"
+  }
+}
